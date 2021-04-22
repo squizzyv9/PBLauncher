@@ -7,5 +7,5 @@ Required Programs
 - Navicat Premium
 - Xampp
 
-Use LauncherTool for create UserFileList.dat and zip all files in client folder
-Auto Update is via database, so navicat is required.
+- Use LauncherTool for create UserFileList.dat and zip all files in client folder
+- Auto Update is via database, so navicat is required.
