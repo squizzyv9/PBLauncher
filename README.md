@@ -1,7 +1,7 @@
 # PBLauncher
-PBLauncher with check files 
+Dosya Doğrulama Özelliği Bulunan Point Blank Game Launcherı
 
-Required Programs
+Gerekli Programlar
 
 - PostgreSQL
 - Navicat Premium
